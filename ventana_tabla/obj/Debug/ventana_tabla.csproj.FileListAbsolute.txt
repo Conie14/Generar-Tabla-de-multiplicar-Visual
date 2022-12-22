@@ -1,0 +1,38 @@
+D:\Programacion\Visual Studio 2013\ventana_tabla\ventana_tabla\bin\Debug\ventana_tabla.exe.config
+D:\Programacion\Visual Studio 2013\ventana_tabla\ventana_tabla\bin\Debug\ventana_tabla.exe
+D:\Programacion\Visual Studio 2013\ventana_tabla\ventana_tabla\bin\Debug\ventana_tabla.pdb
+D:\Programacion\Visual Studio 2013\ventana_tabla\ventana_tabla\bin\Debug\libreria_tabla.dll
+D:\Programacion\Visual Studio 2013\ventana_tabla\ventana_tabla\bin\Debug\libreria_tabla.pdb
+D:\Programacion\Visual Studio 2013\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.csprojResolveAssemblyReference.cache
+D:\Programacion\Visual Studio 2013\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.frmTabla.resources
+D:\Programacion\Visual Studio 2013\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.Properties.Resources.resources
+D:\Programacion\Visual Studio 2013\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.csproj.GenerateResource.Cache
+D:\Programacion\Visual Studio 2013\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.exe
+D:\Programacion\Visual Studio 2013\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.pdb
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\bin\Debug\ventana_tabla.exe.config
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\bin\Debug\ventana_tabla.exe
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\bin\Debug\ventana_tabla.pdb
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\bin\Debug\libreria_tabla.dll
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\bin\Debug\libreria_tabla.pdb
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.csprojAssemblyReference.cache
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.frmTabla.resources
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.Properties.Resources.resources
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.csproj.GenerateResource.cache
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.csproj.CoreCompileInputs.cache
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.csproj.CopyComplete
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.exe
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.pdb
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\bin\Debug\ventana_tabla.exe.config
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\bin\Debug\ventana_tabla.exe
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\bin\Debug\ventana_tabla.pdb
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\bin\Debug\libreria_tabla.dll
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\bin\Debug\libreria_tabla.pdb
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.csproj.AssemblyReference.cache
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.csproj.SuggestedBindingRedirects.cache
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.frmTabla.resources
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.Properties.Resources.resources
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.csproj.GenerateResource.cache
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.csproj.CoreCompileInputs.cache
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.csproj.CopyComplete
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.exe
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\ventana_tabla\ventana_tabla\obj\Debug\ventana_tabla.pdb
